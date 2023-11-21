@@ -1,8 +1,9 @@
-# Change these first
-owner: perennialtech # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: perennialtech
+repo: upptime
 
 sites:
+  - name: Main website
+    url: https://perennialte.ch/home
   - name: SearXNG
     url: https://searx.perennialte.ch
   - name: 4get
@@ -33,10 +34,18 @@ status-website:
   introTitle: "Service Status — perennialte.ch"
   introMessage: This page monitors the liveness and response times of services provided by perennialte.ch. Services are checked every 5 minutes for liveness, while response times are recorded once per day.
   navbar:
+    - title: Home
+      href: https://perennialte.ch/home
+    - title: Services
+      href: https://perennialte.ch/services
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "User-agent: * \n Disallow:"
 
 assignees:
   - perennialtech
+
+i18n:
+  footer: The source code for this page is available at [GitHub]($REPO). Monitoring is provided by [Upptime](https://upptime.js.org).
