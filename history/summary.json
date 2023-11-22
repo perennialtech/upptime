@@ -22,19 +22,19 @@
     "url": "https://searx.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/searx.perennialte.ch.ico",
     "slug": "sear-xng",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 865,
-    "timeDay": 826,
-    "timeWeek": 865,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 839,
+    "timeDay": 759,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-11-22": 0
+      "2023-11-22": 9
     }
   },
   {
