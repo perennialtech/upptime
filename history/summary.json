@@ -76,19 +76,19 @@
     "url": "https://nitter.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.perennialte.ch.ico",
     "slug": "nitter",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1195,
-    "timeDay": 2640,
-    "timeWeek": 1195,
-    "timeMonth": 1195,
-    "timeYear": 1195,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1141,
+    "timeDay": 1979,
+    "timeWeek": 1141,
+    "timeMonth": 1141,
+    "timeYear": 1141,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 16
     }
   },
   {
