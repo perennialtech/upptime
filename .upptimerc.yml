@@ -22,8 +22,6 @@ sites:
     url: https://rimgo.perennialte.ch
   - name: AnonymousOverflow
     url: https://overflow.perennialte.ch
-  - name: Lingva
-    url: https://lingva.perennialte.ch
   - name: PrivateBin
     url: https://privatebin.perennialte.ch
 
