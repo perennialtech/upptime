@@ -132,19 +132,19 @@
     "url": "https://quetre.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/quetre.perennialte.ch.ico",
     "slug": "quetre",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 789,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 752,
+    "timeDay": 807,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 19
     }
   },
   {
