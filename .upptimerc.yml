@@ -28,7 +28,7 @@ sites:
 status-website:
   cname: status.perennialte.ch
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Service Status — perennialte.ch
+  name: Service Status | perennialte.ch
   introTitle: "Service Status"
   introMessage: This page monitors the liveness and response times of services provided by perennialte.ch. Services are checked every 5 minutes for liveness, while response times are recorded once per day.
   navbar:
