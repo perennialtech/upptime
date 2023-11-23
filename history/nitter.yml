@@ -1,7 +1,7 @@
 url: https://nitter.perennialte.ch
-status: up
-code: 200
-responseTime: 862
-lastUpdated: 2023-11-22T23:15:37.740Z
+status: down
+code: 503
+responseTime: 4417
+lastUpdated: 2023-11-23T04:30:33.108Z
 startTime: 2023-11-21T04:30:36.968Z
 generator: Upptime <https://github.com/upptime/upptime>
