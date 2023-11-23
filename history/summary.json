@@ -76,18 +76,20 @@
     "url": "https://nitter.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.perennialte.ch.ico",
     "slug": "nitter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 862,
-    "timeWeek": 792,
-    "timeMonth": 792,
-    "timeYear": 792,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1195,
+    "timeDay": 2640,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
+    "dailyMinutesDown": {
+      "2023-11-23": 0
+    }
   },
   {
     "name": "Invidious",
