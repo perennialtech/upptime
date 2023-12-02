@@ -58,18 +58,20 @@
     "url": "https://libreddit.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.perennialte.ch.ico",
     "slug": "libreddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1342,
-    "timeDay": 1337,
-    "timeWeek": 1186,
-    "timeMonth": 1342,
-    "timeYear": 1342,
-    "dailyMinutesDown": {}
+    "time": 1324,
+    "timeDay": 1133,
+    "timeWeek": 1160,
+    "timeMonth": 1324,
+    "timeYear": 1324,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   },
   {
     "name": "Nitter",
