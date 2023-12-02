@@ -1,7 +1,7 @@
 url: https://4get.perennialte.ch
-status: up
-code: 200
-responseTime: 890
-lastUpdated: 2023-12-02T09:22:17.629Z
+status: down
+code: 503
+responseTime: 1001
+lastUpdated: 2023-12-02T09:45:16.050Z
 startTime: 2023-11-21T04:30:33.655Z
 generator: Upptime <https://github.com/upptime/upptime>
