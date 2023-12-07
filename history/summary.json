@@ -96,18 +96,20 @@
     "url": "https://invidious.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.perennialte.ch.ico",
     "slug": "invidious",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 1163,
-    "timeWeek": 1248,
-    "timeMonth": 1128,
-    "timeYear": 1128,
-    "dailyMinutesDown": {}
+    "time": 1122,
+    "timeDay": 1064,
+    "timeWeek": 1212,
+    "timeMonth": 1122,
+    "timeYear": 1122,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Rimgo",
@@ -133,18 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre.perennialte.ch.ico",
     "slug": "quetre",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 817,
     "timeDay": 839,
     "timeWeek": 903,
     "timeMonth": 817,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-12-07": 8,
       "2023-11-23": 19
     }
   },
