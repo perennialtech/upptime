@@ -58,19 +58,19 @@
     "url": "https://libreddit.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.perennialte.ch.ico",
     "slug": "libreddit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 1440,
-    "timeWeek": 1802,
-    "timeMonth": 1465,
-    "timeYear": 1465,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1458,
+    "timeDay": 1368,
+    "timeWeek": 1738,
+    "timeMonth": 1458,
+    "timeYear": 1458,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 18
     }
   },
   {
