@@ -8,8 +8,6 @@ sites:
     url: https://searx.perennialte.ch
   - name: 4get
     url: https://4get.perennialte.ch
-  - name: Libreddit
-    url: https://libreddit.perennialte.ch
   - name: Nitter
     url: https://nitter.perennialte.ch
   - name: Invidious
