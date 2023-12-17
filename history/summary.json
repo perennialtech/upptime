@@ -22,9 +22,9 @@
     "url": "https://searx.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/searx.perennialte.ch.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 685,
     "timeMonth": 724,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-17": 0
+    }
   },
   {
     "name": "4get",
@@ -59,18 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.perennialte.ch.ico",
     "slug": "nitter",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 977,
     "timeDay": 1063,
     "timeWeek": 959,
     "timeMonth": 977,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2023-12-17": 8,
       "2023-11-23": 16
     }
   },
@@ -80,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/invidious.perennialte.ch.ico",
     "slug": "invidious",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1177,
     "timeDay": 1228,
     "timeWeek": 1402,
     "timeMonth": 1177,
     "timeYear": 1177,
-    "dailyMinutesDown": {
-      "2023-12-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rimgo",
