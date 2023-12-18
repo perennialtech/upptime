@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 195,
-    "timeWeek": 209,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 362,
+    "timeDay": 207,
+    "timeWeek": 204,
+    "timeMonth": 362,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.perennialte.ch.ico",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 722,
-    "timeDay": 827,
-    "timeWeek": 679,
-    "timeMonth": 722,
-    "timeYear": 722,
-    "dailyMinutesDown": {
-      "2023-12-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 720,
+    "timeDay": 642,
+    "timeWeek": 658,
+    "timeMonth": 720,
+    "timeYear": 720,
+    "dailyMinutesDown": {}
   },
   {
     "name": "4get",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 936,
-    "timeWeek": 911,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "time": 861,
+    "timeDay": 1039,
+    "timeWeek": 916,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 977,
-    "timeDay": 1063,
-    "timeWeek": 959,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "time": 979,
+    "timeDay": 1075,
+    "timeWeek": 967,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2023-11-23": 16
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 1228,
-    "timeWeek": 1402,
-    "timeMonth": 1177,
-    "timeYear": 1177,
+    "time": 1179,
+    "timeDay": 1209,
+    "timeWeek": 1392,
+    "timeMonth": 1179,
+    "timeYear": 1179,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 775,
-    "timeWeek": 606,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 599,
+    "timeDay": 694,
+    "timeWeek": 616,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 838,
-    "timeDay": 1009,
-    "timeWeek": 928,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "time": 844,
+    "timeDay": 1048,
+    "timeWeek": 939,
+    "timeMonth": 844,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-11-23": 19
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 775,
-    "timeWeek": 606,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "time": 599,
+    "timeDay": 694,
+    "timeWeek": 616,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 965,
-    "timeWeek": 899,
-    "timeMonth": 868,
-    "timeYear": 868,
+    "time": 870,
+    "timeDay": 935,
+    "timeWeek": 897,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 936,
-    "timeWeek": 789,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "time": 787,
+    "timeDay": 939,
+    "timeWeek": 790,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   }
 ]
