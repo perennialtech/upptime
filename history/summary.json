@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 98,
-    "timeWeek": 205,
-    "timeMonth": 229,
-    "timeYear": 331,
+    "time": 329,
+    "timeDay": 238,
+    "timeWeek": 218,
+    "timeMonth": 230,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 650,
-    "timeWeek": 724,
-    "timeMonth": 708,
-    "timeYear": 721,
+    "time": 722,
+    "timeDay": 781,
+    "timeWeek": 745,
+    "timeMonth": 714,
+    "timeYear": 722,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/4get.perennialte.ch.ico",
     "slug": "4get",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 830,
-    "timeDay": 583,
-    "timeWeek": 656,
-    "timeMonth": 879,
-    "timeYear": 830,
-    "dailyMinutesDown": {
-      "2023-12-26": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 827,
+    "timeDay": 589,
+    "timeWeek": 662,
+    "timeMonth": 874,
+    "timeYear": 827,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nitter",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 934,
-    "timeDay": 643,
-    "timeWeek": 665,
-    "timeMonth": 882,
-    "timeYear": 934,
+    "time": 926,
+    "timeDay": 571,
+    "timeWeek": 649,
+    "timeMonth": 872,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-11-23": 16
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1130,
-    "timeDay": 831,
-    "timeWeek": 811,
-    "timeMonth": 1159,
-    "timeYear": 1130,
+    "time": 1121,
+    "timeDay": 688,
+    "timeWeek": 808,
+    "timeMonth": 1151,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 427,
-    "timeWeek": 436,
-    "timeMonth": 594,
-    "timeYear": 576,
+    "time": 571,
+    "timeDay": 344,
+    "timeWeek": 433,
+    "timeMonth": 588,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -122,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 815,
-    "timeDay": 650,
-    "timeWeek": 633,
-    "timeMonth": 837,
-    "timeYear": 815,
+    "time": 812,
+    "timeDay": 671,
+    "timeWeek": 649,
+    "timeMonth": 830,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2023-11-23": 19
     }
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 427,
-    "timeWeek": 436,
-    "timeMonth": 594,
-    "timeYear": 576,
+    "time": 571,
+    "timeDay": 344,
+    "timeWeek": 433,
+    "timeMonth": 588,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 626,
-    "timeWeek": 673,
-    "timeMonth": 844,
-    "timeYear": 840,
+    "time": 833,
+    "timeDay": 523,
+    "timeWeek": 671,
+    "timeMonth": 837,
+    "timeYear": 833,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 825,
-    "timeWeek": 815,
-    "timeMonth": 796,
-    "timeYear": 798,
+    "time": 796,
+    "timeDay": 746,
+    "timeWeek": 837,
+    "timeMonth": 801,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   }
 ]
