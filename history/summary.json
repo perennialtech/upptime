@@ -40,19 +40,19 @@
     "url": "https://4get.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/4get.perennialte.ch.ico",
     "slug": "4get",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 8226,
-    "timeWeek": 3742,
-    "timeMonth": 1582,
-    "timeYear": 1249,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1243,
+    "timeDay": 6755,
+    "timeWeek": 3481,
+    "timeMonth": 1563,
+    "timeYear": 1243,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 13
     }
   },
   {
