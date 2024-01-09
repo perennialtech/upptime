@@ -40,18 +40,20 @@
     "url": "https://4get.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/4get.perennialte.ch.ico",
     "slug": "4get",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 701,
-    "timeWeek": 745,
-    "timeMonth": 774,
-    "timeYear": 804,
-    "dailyMinutesDown": {}
+    "time": 1033,
+    "timeDay": 8179,
+    "timeWeek": 2609,
+    "timeMonth": 1199,
+    "timeYear": 1033,
+    "dailyMinutesDown": {
+      "2024-01-09": 0
+    }
   },
   {
     "name": "Nitter",
