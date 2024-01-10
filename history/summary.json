@@ -78,19 +78,19 @@
     "url": "https://invidious.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.perennialte.ch.ico",
     "slug": "invidious",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1200,
-    "timeDay": 1132,
-    "timeWeek": 1262,
-    "timeMonth": 1278,
-    "timeYear": 1200,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1192,
+    "timeDay": 1010,
+    "timeWeek": 1200,
+    "timeMonth": 1261,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-01-10": 8
+      "2024-01-10": 0
     }
   },
   {
