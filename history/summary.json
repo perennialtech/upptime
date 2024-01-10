@@ -78,18 +78,20 @@
     "url": "https://invidious.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.perennialte.ch.ico",
     "slug": "invidious",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1207,
-    "timeDay": 1495,
-    "timeWeek": 1351,
-    "timeMonth": 1296,
-    "timeYear": 1207,
-    "dailyMinutesDown": {}
+    "time": 1201,
+    "timeDay": 1125,
+    "timeWeek": 1277,
+    "timeMonth": 1281,
+    "timeYear": 1201,
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "Rimgo",
