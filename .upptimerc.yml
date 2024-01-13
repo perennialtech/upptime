@@ -4,26 +4,37 @@ repo: upptime
 sites:
   - name: Main website
     url: https://perennialte.ch/home
+    maxResponseTime: 2000
   - name: SearXNG
     url: https://searx.perennialte.ch
+    maxResponseTime: 2000
   - name: 4get
     url: https://4get.perennialte.ch
+    maxResponseTime: 2000
   - name: Redlib
     url: https://redlib.perennialte.ch
+    maxResponseTime: 2000
   - name: Nitter
     url: https://nitter.perennialte.ch
+    maxResponseTime: 2000
   - name: Invidious
     url: https://invidious.perennialte.ch
+    maxResponseTime: 2000
   - name: Rimgo
     url: https://rimgo.perennialte.ch
+    maxResponseTime: 2000
   - name: Quetre
     url: https://quetre.perennialte.ch
+    maxResponseTime: 2000
   - name: Rimgo
     url: https://rimgo.perennialte.ch
+    maxResponseTime: 2000
   - name: AnonymousOverflow
     url: https://overflow.perennialte.ch
+    maxResponseTime: 2000
   - name: PrivateBin
     url: https://privatebin.perennialte.ch
+    maxResponseTime: 2000
 
 status-website:
   cname: status.perennialte.ch
