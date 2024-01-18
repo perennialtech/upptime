@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.perennialte.ch.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1582,
     "timeDay": 1932,
     "timeWeek": 1582,
     "timeMonth": 1582,
     "timeYear": 1582,
-    "dailyMinutesDown": {
-      "2024-01-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nitter",
@@ -118,18 +116,20 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 444,
-    "timeWeek": 517,
-    "timeMonth": 478,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "time": 613,
+    "timeDay": 3924,
+    "timeWeek": 1011,
+    "timeMonth": 628,
+    "timeYear": 613,
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Quetre",
@@ -156,18 +156,20 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 444,
-    "timeWeek": 517,
-    "timeMonth": 478,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "time": 613,
+    "timeDay": 3924,
+    "timeWeek": 1011,
+    "timeMonth": 628,
+    "timeYear": 613,
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "AnonymousOverflow",
