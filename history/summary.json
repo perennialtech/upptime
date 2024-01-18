@@ -58,18 +58,20 @@
     "url": "https://redlib.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.perennialte.ch.ico",
     "slug": "redlib",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1489,
-    "timeDay": 1890,
-    "timeWeek": 1489,
-    "timeMonth": 1489,
-    "timeYear": 1489,
-    "dailyMinutesDown": {}
+    "time": 1555,
+    "timeDay": 1989,
+    "timeWeek": 1555,
+    "timeMonth": 1555,
+    "timeYear": 1555,
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   },
   {
     "name": "Nitter",
@@ -84,7 +86,7 @@
     "uptimeYear": "99.98%",
     "time": 849,
     "timeDay": 835,
-    "timeWeek": 790,
+    "timeWeek": 816,
     "timeMonth": 712,
     "timeYear": 849,
     "dailyMinutesDown": {
@@ -104,7 +106,7 @@
     "uptimeYear": "99.97%",
     "time": 1158,
     "timeDay": 734,
-    "timeWeek": 856,
+    "timeWeek": 819,
     "timeMonth": 1138,
     "timeYear": 1158,
     "dailyMinutesDown": {
