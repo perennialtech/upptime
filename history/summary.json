@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 283,
-    "timeWeek": 239,
-    "timeMonth": 225,
-    "timeYear": 291,
+    "time": 293,
+    "timeDay": 361,
+    "timeWeek": 247,
+    "timeMonth": 229,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 582,
+    "time": 708,
+    "timeDay": 541,
     "timeWeek": 624,
-    "timeMonth": 698,
-    "timeYear": 710,
+    "timeMonth": 692,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 728,
-    "timeWeek": 804,
-    "timeMonth": 1496,
-    "timeYear": 1178,
+    "time": 1172,
+    "timeDay": 677,
+    "timeWeek": 820,
+    "timeMonth": 1483,
+    "timeYear": 1172,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1582,
-    "timeDay": 1932,
-    "timeWeek": 1582,
-    "timeMonth": 1582,
-    "timeYear": 1582,
+    "time": 1565,
+    "timeDay": 1769,
+    "timeWeek": 1565,
+    "timeMonth": 1565,
+    "timeYear": 1565,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 849,
-    "timeDay": 835,
-    "timeWeek": 816,
-    "timeMonth": 712,
-    "timeYear": 849,
+    "time": 845,
+    "timeDay": 512,
+    "timeWeek": 817,
+    "timeMonth": 699,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-11-23": 16
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1158,
-    "timeDay": 734,
-    "timeWeek": 819,
-    "timeMonth": 1138,
-    "timeYear": 1158,
+    "time": 1151,
+    "timeDay": 506,
+    "timeWeek": 751,
+    "timeMonth": 1119,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2024-01-10": 27
     }
@@ -117,19 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 612,
-    "timeDay": 3067,
-    "timeWeek": 987,
-    "timeMonth": 627,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2024-01-18": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 608,
+    "timeDay": 3011,
+    "timeWeek": 986,
+    "timeMonth": 615,
+    "timeYear": 608,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quetre",
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 789,
-    "timeDay": 689,
-    "timeWeek": 806,
-    "timeMonth": 724,
-    "timeYear": 789,
+    "time": 785,
+    "timeDay": 518,
+    "timeWeek": 807,
+    "timeMonth": 711,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2023-11-23": 19
     }
@@ -157,19 +155,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 612,
-    "timeDay": 3067,
-    "timeWeek": 987,
-    "timeMonth": 627,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2024-01-18": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 608,
+    "timeDay": 3011,
+    "timeWeek": 986,
+    "timeMonth": 615,
+    "timeYear": 608,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AnonymousOverflow",
@@ -182,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 678,
+    "time": 795,
+    "timeDay": 513,
     "timeWeek": 765,
-    "timeMonth": 723,
-    "timeYear": 799,
+    "timeMonth": 710,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -200,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 890,
-    "timeWeek": 801,
-    "timeMonth": 821,
-    "timeYear": 803,
+    "time": 801,
+    "timeDay": 633,
+    "timeWeek": 785,
+    "timeMonth": 809,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   }
 ]
