@@ -116,18 +116,20 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 572,
-    "timeWeek": 1091,
-    "timeMonth": 622,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 549,
+    "timeWeek": 1056,
+    "timeMonth": 620,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2024-01-23": 0
+    }
   },
   {
     "name": "Quetre",
@@ -154,18 +156,20 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 572,
-    "timeWeek": 1091,
-    "timeMonth": 622,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 549,
+    "timeWeek": 1056,
+    "timeMonth": 620,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2024-01-23": 0
+    }
   },
   {
     "name": "AnonymousOverflow",
