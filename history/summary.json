@@ -116,19 +116,19 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 549,
-    "timeWeek": 1056,
-    "timeMonth": 620,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 603,
+    "timeDay": 647,
+    "timeWeek": 1050,
+    "timeMonth": 625,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 11
     }
   },
   {
@@ -156,19 +156,19 @@
     "url": "https://rimgo.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.perennialte.ch.ico",
     "slug": "rimgo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 549,
-    "timeWeek": 1056,
-    "timeMonth": 620,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 603,
+    "timeDay": 647,
+    "timeWeek": 1050,
+    "timeMonth": 625,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 11
     }
   },
   {
