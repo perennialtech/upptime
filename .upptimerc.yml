@@ -35,6 +35,9 @@ sites:
   - name: PrivateBin
     url: https://privatebin.perennialte.ch
     maxResponseTime: 2000
+  - name: Scribe
+    url: https://scribe.perennialte.ch
+    maxResponseTime: 2000
 
 status-website:
   cname: status.perennialte.ch
