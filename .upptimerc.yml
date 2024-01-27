@@ -40,7 +40,6 @@ sites:
     maxResponseTime: 2000
 
 status-website:
-  # cname: status.perennialte.ch
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status | perennialte.ch
