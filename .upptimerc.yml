@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Main website
-    url: https://perennialte.ch/home
+    url: https://perennialte.ch
     maxResponseTime: 2000
   - name: SearXNG
     url: https://searx.perennialte.ch
