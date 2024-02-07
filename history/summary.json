@@ -6,8 +6,8 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
@@ -15,9 +15,7 @@
     "timeWeek": 179,
     "timeMonth": 197,
     "timeYear": 262,
-    "dailyMinutesDown": {
-      "2024-02-07": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SearXNG",
