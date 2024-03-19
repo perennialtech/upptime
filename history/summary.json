@@ -58,19 +58,19 @@
     "url": "https://redlib.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.perennialte.ch.ico",
     "slug": "redlib",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1300,
-    "timeDay": 1539,
-    "timeWeek": 1598,
-    "timeMonth": 1132,
-    "timeYear": 1300,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1302,
+    "timeDay": 1532,
+    "timeWeek": 1591,
+    "timeMonth": 1143,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2024-03-19": 0
+      "2024-03-19": 17
     }
   },
   {
