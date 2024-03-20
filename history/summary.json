@@ -217,9 +217,9 @@
     "url": "https://scribe.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/scribe.perennialte.ch.ico",
     "slug": "scribe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -228,6 +228,8 @@
     "timeWeek": 833,
     "timeMonth": 881,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   }
 ]
