@@ -1,7 +1,7 @@
 url: https://invidious.perennialte.ch
-status: degraded
-code: 502
-responseTime: 7068
-lastUpdated: 2024-03-20T06:32:28.627Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2024-03-20T06:39:40.608Z
 startTime: 2023-11-21T04:30:38.304Z
 generator: Upptime <https://github.com/upptime/upptime>
