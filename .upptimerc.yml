@@ -13,7 +13,7 @@ sites:
     maxResponseTime: 2000
   - name: Redlib
     url: https://redlib.perennialte.ch
-    maxResponseTime: 2000
+    maxResponseTime: 4000
   - name: Nitter
     url: https://nitter.perennialte.ch
     maxResponseTime: 2000
