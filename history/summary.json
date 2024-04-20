@@ -42,18 +42,16 @@
     "slug": "4get",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1011,
     "timeDay": 2621,
     "timeWeek": 1472,
     "timeMonth": 965,
     "timeYear": 1011,
-    "dailyMinutesDown": {
-      "2024-04-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Redlib",
@@ -103,19 +101,19 @@
     "url": "https://invidious.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.perennialte.ch.ico",
     "slug": "invidious",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1193,
-    "timeDay": 14864,
-    "timeWeek": 4375,
-    "timeMonth": 1658,
-    "timeYear": 1193,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1188,
+    "timeDay": 10026,
+    "timeWeek": 3928,
+    "timeMonth": 1620,
+    "timeYear": 1188,
     "dailyMinutesDown": {
-      "2024-04-20": 1,
+      "2024-04-20": 12,
       "2024-01-10": 27
     }
   },
@@ -126,7 +124,7 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -136,7 +134,6 @@
     "timeMonth": 580,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-04-20": 0,
       "2024-02-01": 38,
       "2024-01-31": 121
     }
@@ -168,7 +165,7 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -178,7 +175,6 @@
     "timeMonth": 580,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-04-20": 0,
       "2024-02-01": 38,
       "2024-01-31": 121
     }
@@ -225,18 +221,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/scribe.perennialte.ch.ico",
     "slug": "scribe",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 843,
     "timeDay": 1737,
     "timeWeek": 1141,
     "timeMonth": 853,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2024-04-20": 8,
       "2024-03-20": 27
     }
   }
