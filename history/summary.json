@@ -40,18 +40,20 @@
     "url": "https://4get.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/4get.perennialte.ch.ico",
     "slug": "4get",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 949,
-    "timeWeek": 905,
-    "timeMonth": 809,
-    "timeYear": 984,
-    "dailyMinutesDown": {}
+    "time": 1010,
+    "timeDay": 3329,
+    "timeWeek": 1506,
+    "timeMonth": 958,
+    "timeYear": 1010,
+    "dailyMinutesDown": {
+      "2024-04-20": 2
+    }
   },
   {
     "name": "Redlib",
@@ -110,7 +112,7 @@
     "time": 1043,
     "timeDay": 826,
     "timeWeek": 871,
-    "timeMonth": 987,
+    "timeMonth": 807,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2024-01-10": 27
@@ -219,18 +221,19 @@
     "url": "https://scribe.perennialte.ch",
     "icon": "https://icons.duckduckgo.com/ip3/scribe.perennialte.ch.ico",
     "slug": "scribe",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 813,
-    "timeDay": 839,
-    "timeWeek": 843,
-    "timeMonth": 775,
-    "timeYear": 813,
+    "time": 848,
+    "timeDay": 2438,
+    "timeWeek": 1242,
+    "timeMonth": 869,
+    "timeYear": 848,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-03-20": 27
     }
   }
